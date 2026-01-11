@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in [the Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), Tsinghua University. I am advised by [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) in the [PACMAN](https://pacman.cs.tsinghua.edu.cn/) group. 
-<!-- Currently, I am visiting the [Catalyst](https://catalyst.cs.cmu.edu/) group of CMU and also advised by [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). -->
-My passion lies in efficient machine learning systems, covering compilation optimization, efficient service, and long-term operation. 
-<!-- I am always eager to engage in conversations and collaborate with others who share my passion for this field. -->
+I am an LLM Systems Researcher at ByteDance Seed. I earned my Ph.D. from Tsinghua University, advised by [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
+My passion lies in building efficient and reliable machine learning systems, with research interests covering large-scale LLM training, compilation optimization, and long-term operations.
 
 Projects
 ======
 - [InfiniTensor](https://github.com/InfiniTensor/InfiniTensor) is a high-performance inference engine tailored for GPUs and AI accelerators. Its design focuses on effective deployment and swift academic validation.
 - [Vapro](https://github.com/thu-pacman/VAPRO) is a performance profiler to detect and diagnose performance variance (i.e., performance degradation and jitters) for parallel applications.
 
+
+
 Publications
 ======
+
 
 - **[OSDI'23]** EinNet: Optimizing Tensor Programs with Derivation-Based Transformations <br>
     **Liyan Zheng**, Haojie Wang, Jidong Zhai, Muyan Hu, Zixuan Ma, Tuowei Wang, Shuhong Huang, Xupeng Miao, Shizhi Tang, Kezhao Huang, Zhihao Jia <br>
