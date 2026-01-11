@@ -11,9 +11,9 @@ title                    : "Liyan Zheng"
 title_separator          : "-"
 name                     : &name "Liyan Zheng"
 description              : &description "Liyan Zheng, Ph.D. student at Tsinghua University"
-url                      : https://zhengly123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wintersurf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhengly123.github.io"
+repository               : "wintersurf.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
