@@ -22,7 +22,7 @@ Publications
 ======
 
 - **[PPoPP'26]** Difflow: A Data-Characteristic-Aware Serving System for Diffusion Models <br>
-Chengzhang Wu*, Liyan Zheng*, Haojie Wang, Kezhao Huang, Zixuan Ma, Dong Dong, Jidong Zhai
+  Chengzhang Wu\*, Liyan Zheng\*, Haojie Wang, Kezhao Huang, Zixuan Ma, Dong Dong, Jidong Zhai
 
 - **[ATC'25]** mTuner: Accelerating Parameter-Efficient Fine-Tuning on Multi-GPU Servers with Elastic Tensor <br>
 Kezhao Huang, Siqi Zhu, Mingshu Zhai, Liyan Zheng, Kinman Lei, Jiaao He, Yuyang Jin, Jidong Zhai
